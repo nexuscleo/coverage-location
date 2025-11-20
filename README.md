@@ -1,8 +1,8 @@
 # 🌐 Wide Coverage Location - Landing Page
 
-![GitHub language count](https://img.shields.io/github/languages/count/SEU-USUARIO/SEU-REPOSITORIO?style=for-the-badge)
-![GitHub top language](https://img.shields.io/github/languages/top/SEU-USUARIO/SEU-REPOSITORIO?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/SEU-USUARIO/SEU-REPOSITORIO?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/nexuscleo/coverage-location?style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/nexuscleo/coverage-location?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/nexuscleo/coverage-location?style=for-the-badge)
 
 > Projeto de uma landing page responsiva, desenvolvida com HTML e CSS puro, utilizando a metodologia **Mobile First** para garantir uma experiência de usuário otimizada em qualquer dispositivo.
 
