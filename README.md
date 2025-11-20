@@ -74,6 +74,9 @@ E pronto! A página será exibida.
 
 ---
 
-## 📝 Licença
+## 📝 Deploy
+**https://nexuscleo.github.io/coverage-location/**
+
+---
 
 **Desenvolvido por Cleomar da Silva, &copy;2025 NexusCleo.**
