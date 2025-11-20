@@ -1,7 +1,7 @@
 # 🌐 Wide Coverage Location - Landing Page
 
 ![GitHub language count](https://img.shields.io/github/languages/count/nexuscleo/coverage-location?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![GitHub top language](https://img.shields.io/github/languages/top/nexuscleo/coverage-location?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/nexuscleo/coverage-location?style=for-the-badge)
 
