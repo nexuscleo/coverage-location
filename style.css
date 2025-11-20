@@ -74,6 +74,7 @@ p {
     border: none;
     cursor: pointer;
     background: transparent;
+    text-decoration: none; /* Remove sublinhado do link */
 }
 
 /* ESTILOS PARA TELAS MAIORES */
@@ -102,7 +103,8 @@ p {
         padding: 0 40px; /* Adiciona espaçamento nas laterais do main */
         justify-content: center; /* Centraliza o conjunto imagem+texto */
         align-items: center;
-        margin-top: 100px;
+        margin: 100px auto 0; /* Centraliza o main na página */
+        max-width: 1200px; /* Limita a largura máxima do conteúdo */
     }
 
     h1 {
@@ -145,7 +147,12 @@ p {
     }
 
     .btn-main:hover,
+    .link-header:hover {
+        opacity: 0.8;
+    }
+
     .btn-header:hover {
-        color: #339f1d;
+        background-color: #4a9d1c; /* Escurece o fundo ao passar o mouse */
+        opacity: 0.9;
     }
 }
