@@ -10,7 +10,6 @@
 <br>
 
 <p align="center">
-  <!-- ❗ IMPORTANTE: Tire um print do seu projeto e substitua a URL abaixo -->
   <img src="./img/Positive.png" alt="Demonstração do Projeto" width="400"/>
 </p>
 
